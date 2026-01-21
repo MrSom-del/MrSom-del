@@ -50,8 +50,7 @@
  🔹 **Inventory Management System** *(Java + Spring Framework)*
 - Backend application for managing products and stock
 - Implemented CRUD operations and REST APIs
-- Designed with scalability in mind
-
+  
 ---
 
 ### 🌱 Currently Learning
