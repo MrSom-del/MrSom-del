@@ -61,6 +61,6 @@
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/som-dutt-rai?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn: https://www.linkedin.com/in/som-dutt-rai
 - GitHub: https://github.com/MrSom-del
 - Email: somduttrai4966@gmail.com
