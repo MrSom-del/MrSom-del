@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Som Dutt Rai
 
-🎓 B.Tech Computer Science (3rd Year | 6th Semester)  
+🎓 B.Tech Computer Science (4th Year | 7th Semester)  
 💻 Aspiring Software Engineer | ML & Backend Enthusiast  
 📍 India  
 
